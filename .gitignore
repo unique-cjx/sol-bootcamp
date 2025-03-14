@@ -5,6 +5,8 @@ target/
 .DS_Store
 .nx
 
+**/.idea
+
 # Logs
 logs
 *.log
